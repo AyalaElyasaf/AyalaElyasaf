@@ -58,14 +58,14 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 </ul>
 
 ## 📊GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=dark&background=000000" alt="GitHub Streak Stats">
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyalaElyasaf&show_icons=true&theme=dracula&line_height=27" alt="GitHub Streak Stats"/>
 </p>
-<a href="https://github.com/ShanyMargalit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyalaElyasaf&show_icons=true&theme=dracula&line_height=27" />
-</a>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=radical" alt="AyalaElyasaf" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=radical" alt="AyalaElyasaf" />
 </p>
 
 ## 🏆Top Languages
