@@ -38,7 +38,6 @@ As a full-stack web developer, I infuse each project with a high level of enthus
   <a href="https://jupyter.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="45" height="45"/></a>
   <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></a>
   <a href="https://jira.atlassian.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" height="35"/></a>
-  <a href="https://trello.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="35" height="35"/></a>
   <a href="https://eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm" width="40" height="40"/> </a>
