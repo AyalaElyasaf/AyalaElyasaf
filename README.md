@@ -80,7 +80,7 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 - A global hotel chain management system-full stack development.
 - Design pattern simulation GIT in C#.
 
-## 🗂️Additional Courses
+## 🗂️📚Additional Courses
 - Algorithms and data structures
 - Operating Systems
 - Computer and network communications
