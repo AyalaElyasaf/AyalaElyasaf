@@ -3,11 +3,11 @@
 
 ## 💭About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-<p>- 💻 Full-stack web developer</p>
+<p>- 💻 Full-stack developer</p>
 <p>- 🌐 Proficient in frontend and backend technologies</p>
-<p>- 🛠️ Skilled in responsive UI design and performance optimization</p>
 <p>- 📊 Strong problem-solving and debugging skills</p>
 <p>- 🌱 Eager to learn and grow in a collaborative environment</p>
+<p>- 🛠️ Skilled in responsive UI design and performance optimization</p>
 <p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/13MD-rcLE5yGs4S0q5WQGK--r7j3k95kX/view?usp=sharing">here</a>.</p>
 
 ## 🚀My Mission
@@ -77,8 +77,8 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 
 ## 👨‍💻Current Projects
 - Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
-- A global hotel chain management system
-- Design pattern simulation project in C#
+- A global hotel chain management system-full stack development.
+- Design pattern simulation GIT in C#.
 
 ## 🗂️Additional Courses
 - Algorithms and data structures
