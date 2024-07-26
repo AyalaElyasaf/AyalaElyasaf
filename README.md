@@ -56,6 +56,7 @@ As a full-stack web developer, I infuse each project with a high level of enthus
   <li><b>Problem Solving:</b> Analytical and methodical approach to identifying and solving technical challenges.</li>
   <li><b>Continuous Learning:</b> Staying up-to-date with the latest industry trends and technologies.</li>
 </ul>
+
 ## 📊GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=dark&background=000000" alt="GitHub Streak Stats">
