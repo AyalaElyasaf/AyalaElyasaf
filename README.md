@@ -71,7 +71,7 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 </p>
 
 ## 📫How to Reach Me
-<p align="center">
+<p align="left">
   <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>    ayala76745@gmail.com</a>
 </p>
 
