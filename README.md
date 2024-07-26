@@ -58,9 +58,6 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 </ul>
 
 ## 📊GitHub Stats
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=dark&background=000000" alt="GitHub Streak Stats">
-</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyalaElyasaf&show_icons=true&theme=dracula&line_height=27" alt="GitHub Streak Stats"/>
 </p>
@@ -75,7 +72,7 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 
 ## 📫How to Reach Me
 <p align="center">
-  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>  ayala76745@gmail.com</a>
+  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>    ayala76745@gmail.com</a>
 </p>
 
 ## 👨‍💻Current Projects
