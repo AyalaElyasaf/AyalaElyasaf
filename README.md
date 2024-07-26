@@ -61,6 +61,12 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=dark&background=000000" alt="GitHub Streak Stats">
 </p>
+<a href="https://github.com/ShanyMargalit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyalaElyasaf&show_icons=true&theme=dracula&line_height=27" />
+</a>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=radical" alt="AyalaElyasaf" />
+</p>
 
 ## 🏆Top Languages
 <p align="center">
@@ -70,8 +76,6 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 ## 📫How to Reach Me
 <p align="center">
   <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>  ayala76745@gmail.com</a>
-  <!-- <a href="https://www.linkedin.com/in/ayala-elyasaf/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://github.com/AyalaElyasaf"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/></a> -->
 </p>
 
 ## 👨‍💻Current Projects
