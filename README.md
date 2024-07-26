@@ -46,8 +46,6 @@ As a full-stack web developer, I infuse each project with a high level of enthus
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/> </a>
 </p>
 
 ## 🌟Key Skills and Strengths
@@ -70,9 +68,9 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 
 ## 📫How to Reach Me
 <p align="center">
-  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>ayala76745@gmail.com</a>
-  <a href="https://www.linkedin.com/in/ayala-elyasaf/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://github.com/AyalaElyasaf"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>  ayala76745@gmail.com</a>
+  <!-- <a href="https://www.linkedin.com/in/ayala-elyasaf/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://github.com/AyalaElyasaf"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/></a> -->
 </p>
 
 ## 👨‍💻Current Projects
