@@ -92,7 +92,7 @@ As a full-stack web developer, I infuse each project with a high level of enthus
   <img src="https://github-readme-stats.vercel.app/api?username=AyalaElyasaf&show_icons=true&theme=dracula&line_height=27" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=radical" alt="AyalaElyasaf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyalaElyasaf&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ## 🏆Top Languages
@@ -102,13 +102,12 @@ As a full-stack web developer, I infuse each project with a high level of enthus
 
 ## 📫How to Reach Me
 <p align="left">
-  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>    ayala76745@gmail.com</a>
+  <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>    ayala76745@gmail.com</a>
 </p>
 
 ## 👨‍💻Current Projects
 - Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
-- A global hotel chain management system-full stack development.
-- Design pattern simulation GIT in C#.
+
 
 ## 🗂️📚Additional Courses
 - Algorithms and data structures
