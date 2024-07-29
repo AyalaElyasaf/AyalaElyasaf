@@ -14,9 +14,6 @@
 As a full-stack web developer, I infuse each project with a high level of enthusiasm, unwavering dedication, and a relentless drive for continuous learning. I am deeply committed to delivering top-quality results and consistently enhancing my skills to stay ahead in the ever-evolving tech landscape.
 
 ## 🛠Languages and Tools
-<p align="left"> 
-## 🛠Languages and Tools
-
 ### Programming Languages
 <p align="left"> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
