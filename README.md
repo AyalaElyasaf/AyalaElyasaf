@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Ayala</p></b></h1>
-<h4 align="center"><b>I am a dedicated Full Stack Developer with a strong aptitude for self-learning, meticulous attention to detail, and exceptional problem-solving abilities. My approach is goal-oriented, ensuring that I consistently strive to achieve and exceed objectives.</b></h4>
+<h4 align="center"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h4>
 
 ## 💭About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -11,7 +11,7 @@
 <p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/13MD-rcLE5yGs4S0q5WQGK--r7j3k95kX/view?usp=sharing">here</a>.</p>
 
 ## 🚀My Mission
-As a full-stack web developer, I infuse each project with a high level of enthusiasm, unwavering dedication, and a relentless drive for continuous learning. I am deeply committed to delivering top-quality results and consistently enhancing my skills to stay ahead in the ever-evolving tech landscape.
+My mission is to harness technology to create impactful and user-friendly applications while continuously evolving as a developer. I am dedicated to applying my knowledge in algorithms, data structures, and cloud technologies to solve real-world problems. I believe in maintaining a high standard of work ethic and efficiency, ensuring that I contribute positively to any team I am a part of. Through ongoing learning and adaptation, I aim to stay at the forefront of industry trends and best practices.
 
 ## 🛠Languages and Tools
 <p align="left"> 
