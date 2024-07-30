@@ -191,7 +191,7 @@ My mission is to harness technology to create impactful and user-friendly applic
 
 ## 👨‍💻Current Projects
 - Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
--project in C++ of Integrated vehicle management system.
+- project in C++ of Integrated vehicle management system.
 
 ## 🗂️📚Additional Courses
 - Algorithms and data structures
