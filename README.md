@@ -16,6 +16,9 @@ My mission is to harness technology to create impactful and user-friendly applic
 ## 🛠Languages and Tools
 ### Programming Languages
 <p align="left"> 
+   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+</a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
@@ -36,9 +39,6 @@ My mission is to harness technology to create impactful and user-friendly applic
 </a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Assembly_language.png" alt="Assembly" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
 </a>
 </p>
 
