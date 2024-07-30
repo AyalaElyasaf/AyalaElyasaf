@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Ayala</p></b></h1>
-<h4 align="center"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h4>
+<h3 align="left"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h3>
 
 ## 💭About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -191,7 +191,7 @@ My mission is to harness technology to create impactful and user-friendly applic
 
 ## 👨‍💻Current Projects
 - Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
-
+-project in C++ of Integrated vehicle management system.
 
 ## 🗂️📚Additional Courses
 - Algorithms and data structures
@@ -203,7 +203,7 @@ My mission is to harness technology to create impactful and user-friendly applic
 - Introduction to Information Security
 - Cloud (AWS)
 - Machine learning in Python
-- Information system architecture and management
+- Knowledge of architecture and management of information systems
 - Docker
 - Scrum/Agile methodology with JIRA
 
