@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Ayala</p></b></h1>
-<h3 align="left"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h3>
+<h4 align="left"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h4>
 
 ## 💭About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
