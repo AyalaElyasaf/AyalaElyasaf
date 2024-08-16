@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Ayala</p></b></h1>
-<h4 align="left"><b>I am a passionate Full Stack Developer specializing in both frontend and backend technologies. My educational journey in software engineering, paired with hands-on experience working on diverse projects, has equipped me with a robust skill set. I thrive in collaborative environments and relish the opportunity to tackle complex technical challenges. With a deep understanding of various programming languages and frameworks—including Java, C#, Python, and React—I am committed to delivering high-quality solutions that meet client needs.</b></h4>
+<h4 align="left"><b>I am a passionate Full Stack Developer currently working as a Software Engineer at Intel Israel. My background in software engineering, combined with hands-on experience in both frontend and backend technologies, has equipped me with a diverse and robust skill set. I thrive in collaborative environments and enjoy tackling complex technical challenges. With a strong command of languages and frameworks including Java, C#, Python Angular, and React, I am dedicated to delivering innovative and high-quality solutions</b></h4>
 
 ## 💭About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -8,8 +8,7 @@
 <p>- 📊 Strong problem-solving and debugging skills</p>
 <p>- 🌱 Eager to learn and grow in a collaborative environment</p>
 <p>- 🛠️ Skilled in responsive UI design and performance optimization</p>
-<p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/1hB8XiiC3jMgpxUnNeLlCINy5OZgxmvx1/view?usp=sharing">here</a>.</p>
-<p>- To view my Hebrew resume click <a href="https://drive.google.com/file/d/1Dwr-jrHalFlq05YI_E4OGynwffaKpzzI/view?usp=sharing">here</a>.</p>
+<p>- 🌟 Passionate about creating impactful solutions through technology</p>
 
 ## 🚀My Mission
 My mission is to harness technology to create impactful and user-friendly applications while continuously evolving as a developer. I am dedicated to applying my knowledge in algorithms, data structures, and cloud technologies to solve real-world problems. I believe in maintaining a high standard of work ethic and efficiency, ensuring that I contribute positively to any team I am a part of. Through ongoing learning and adaptation, I aim to stay at the forefront of industry trends and best practices.
@@ -189,6 +188,7 @@ My mission is to harness technology to create impactful and user-friendly applic
 
 ## 👨‍💻Current Projects
 - Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
+- full-time work at Intel Israel.
 
 
 ## 🗂️📚Additional Courses
