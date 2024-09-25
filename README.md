@@ -9,6 +9,7 @@
 <p>- 🌱 Eager to learn and grow in a collaborative environment</p>
 <p>- 🛠️ Skilled in responsive UI design and performance optimization</p>
 <p>- 🌟 Passionate about creating impactful solutions through technology</p>
+<p>- 📄 Actively looking for a job! You can view my resume <a href="https://drive.google.com/file/d/1hB8XiiC3jMgpxUnNeLlCINy5OZgxmvx1/view?usp=sharing" target="_blank">here</a>.</p>
 
 ## 🚀My Mission
 My mission is to harness technology to create impactful and user-friendly applications while continuously evolving as a developer. I am dedicated to applying my knowledge in algorithms, data structures, and cloud technologies to solve real-world problems. I believe in maintaining a high standard of work ethic and efficiency, ensuring that I contribute positively to any team I am a part of. Through ongoing learning and adaptation, I aim to stay at the forefront of industry trends and best practices.
@@ -187,8 +188,8 @@ My mission is to harness technology to create impactful and user-friendly applic
 </p>
 
 ## 👨‍💻Current Projects
-- Website development as part of a team of software engineers for a private client. The website will be used to place orders for designs.
-- full-time work at Intel Israel.
+- full-time work at Intel Israel:Developed and executed validation tests for software systems using C#,
+Designed and implemented automation solutions to enhance testing processes and improve product quality
 
 
 ## 🗂️📚Additional Courses
