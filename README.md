@@ -187,8 +187,9 @@ My mission is to harness technology to create impactful and user-friendly applic
   <a href="mailto:AYALA76745@GMAIL.COM"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>    ayala76745@gmail.com</a>
 </p>
 
-## 👨‍💻Current Projects
-- full-time work at Intel Israel:Developed and executed validation tests for software systems using C#,
+## 👨‍💻Work experience
+-2025 full-time work at hp indigo
+-2024 full-time work at Intel Israel:Developed and executed validation tests for software systems using C#,
 Designed and implemented automation solutions to enhance testing processes and improve product quality
 
 
